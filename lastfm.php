@@ -1,5 +1,3 @@
-<html>
-<body>
 <?php
 // Include the API
 	
@@ -126,5 +124,3 @@
 	
 	
 ?>
-</body>
-</html>
